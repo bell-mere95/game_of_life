@@ -1,5 +1,3 @@
-/*ONOMA: SYMEONIDOU ALEXANDRA
-  A.M.: 10490 */
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
@@ -729,12 +727,4 @@ metr=0;  //METRHTHS: METRAEI POSES EPANALHPSEIS EXOYN GINEI WSTE NA EMFANISTOUN 
                             
  //EKSODOS:
  return 0;
-  }           
-        ////////////////////////////////////////////////////////////////////////
-       //PHGES: -PLHRHS C++ , SAVITCH WALTER,2011                            //
-      //        -MATHETE TH C++ APO TO MHDEN, HERBERT SCHILD, 2004          //
-     //         -http://users.uoi.gr/nglinos/                              //
-    //           -https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life   //
-   //           -http://www.conwaylife.com/wiki/Main_Page                //
-  //             -http://www.cplusplus.com/                             //
- ////////////////////////////////////////////////////////////////////////
+  }         
